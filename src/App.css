@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,11 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.active {
+  width: 80%;
+  /* border-radius: 4px; */
+  padding-left: 3px;
+  background-image: linear-gradient(to right, rgb(136 19 55), rgb(248 250 252));
 }
